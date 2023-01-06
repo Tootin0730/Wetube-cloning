@@ -1,0 +1,16 @@
+{
+    "name": "wetube",
+    "version": "1.0.0",
+    "description": "The best way to watch videos.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tootin0730/Wetube-cloning"
+    },
+    "author": "San Yi",
+    "license": "GSU",
+    "bugs": {
+        "url": "https://github.com/Tootin0730/Wetube-cloning"
+    },
+    "homepage": "https://github.com/Tootin0730/Wetube-cloning"
+}
