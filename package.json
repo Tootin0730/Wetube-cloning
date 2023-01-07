@@ -8,7 +8,7 @@
         "url": "git+https://github.com/Tootin0730/Wetube-cloning"
     },
     "scripts": {
-        "win": "node index.js"
+        "dev": "babel-note index.js"
     },
     "author": "San Yi",
     "license": "GSU",
@@ -21,6 +21,7 @@
     },
     "devDependencies": {
         "@babel/core": "^7.20.12",
+        "@babel/preset-env": "^7.20.2"
         "@babel/preset-env": "^7.20.2"
     }
 }
