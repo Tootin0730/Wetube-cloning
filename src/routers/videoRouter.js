@@ -9,5 +9,3 @@ videoRouter.get("/:id(\\d+)/delete", deleteVideo);
 videoRouter.get("/upload", upload);
 
 export default videoRouter;
-
-//Fixed!//
